@@ -8,7 +8,7 @@
 
 
 This repository contains `R` code to reproduce the figures in "Challenges of the inconsistency regime: novel debiasing methods for missing data models."
-Standard semi-parametric approaches for estimating population means when data is missing at random, or relatedly, average treatment effects, include outcome imputation, augmented inverse probability weighting (AIPW), and inverse probability weighting (IPW)/Horwitz-Thompson. These methods are inconsistent when both the outcome model and missingness/propensity model cannot be estimated consistently. We develop methods which achieve consistency for the population mean in a setting where neither the outcome nor missingness/propensity model can be estimated consistently.
+Standard semi-parametric approaches for estimating population means when data is missing at random, or relatedly, average treatment effects, include outcome imputation, augmented inverse probability weighting (AIPW), and inverse probability weighting (IPW)/Horvitz-Thompson. These methods are inconsistent when both the outcome model and missingness/propensity model cannot be estimated consistently. We develop methods which achieve consistency for the population mean in a setting where neither the outcome nor missingness/propensity model can be estimated consistently.
 
 #### Guide to paper's figures
 
