@@ -18,4 +18,4 @@ Standard semi-parametric approaches for estimating population means when data is
 
 The files in the `utils` directory define functions used by the simulations.
 
-Figures are output to a directory `fig_paper` and simulation data is written to and read from a directory `data`. Simulation data used in the paper can be found [here](https://drive.google.com/drive/folders/1LoqRnKe2caUJB2uJeegWfFAmQWEEt8uv?usp=sharing)
+Figures are output to a directory `fig_paper` and simulation data is written to and read from a directory `data`. Simulation data used in the paper can be found [here](https://drive.google.com/drive/folders/1LoqRnKe2caUJB2uJeegWfFAmQWEEt8uv?usp=sharing).
